@@ -1,4 +1,9 @@
-![Snowy Adventure](https://raw.githubusercontent.com/LamyaaDMoha/LamyaaDMoha/main/Forocoches.gif)
+<p align="center">
+  <img src="https://raw.githubusercontent.com/LamyaaDMoha/LamyaaDMoha/main/Forocoches.gif"
+       alt="Snowy Adventure"
+       width="85%">
+</p>
+
 
 <div align="center">
 
