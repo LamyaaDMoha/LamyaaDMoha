@@ -152,6 +152,16 @@ an organized and user-friendly interface.
 
 ---
 
+### ❄️ My Contribution Journey
+
+<div align="center">
+
+![Snowy Snake](https://raw.githubusercontent.com/LamyaaDMoha/LamyaaDMoha/output/snake.svg)
+
+</div>
+
+---
+
 ## <img src="https://api.iconify.design/lucide/link.svg?color=%238ECBE8" width="24"> Connect With Me
 
 <p align="center">
