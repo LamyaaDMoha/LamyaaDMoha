@@ -40,7 +40,6 @@ I enjoy combining creativity with programming, especially when working on visual
 ## <img src="https://api.iconify.design/lucide/telescope.svg?color=%238ECBE8" width="24"> Currently Exploring
 
 <p align="center">
-<img src="https://api.iconify.design/lucide/shield-check.svg?color=%238ECBE8" width="24" alt="Security"> <strong>Cybersecurity</strong>&nbsp;&nbsp;
 <img src="https://api.iconify.design/lucide/cloud.svg?color=%238ECBE8" width="24" alt="Cloud"> <strong>Cloud Computing</strong>&nbsp;&nbsp;
 <img src="https://api.iconify.design/lucide/pen-tool.svg?color=%23B49AF1" width="24" alt="Design"> <strong>UI/UX</strong>&nbsp;&nbsp;
 <img src="https://api.iconify.design/lucide/network.svg?color=%2370B8E0" width="24" alt="Networking"> <strong>Networking</strong>
