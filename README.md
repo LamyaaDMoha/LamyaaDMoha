@@ -146,6 +146,28 @@ an organized and user-friendly interface.
 
 ---
 
+## <img src="https://api.iconify.design/lucide/gamepad-2.svg?color=%238ECBE8" width="25"> Play My Mini Game
+
+<div align="center">
+
+<h3>Snowy Quest | The Frozen Maze</h3>
+
+<p>A little ice-themed adventure I created!</p>
+
+<a href="https://lamyaadmoha.github.io/snowy-quest/">
+  <img src="./snowy_quest_preview.gif"
+       alt="Play Snowy Quest"
+       width="85%">
+</a>
+
+<p>
+<strong>Click on the game screen to start playing!</strong>
+</p>
+
+</div>
+
+---
+
 ## <img src="https://api.iconify.design/lucide/chart-no-axes-combined.svg?color=%238ECBE8" width="24"> GitHub Activity
 
 <div align="center">
