@@ -157,15 +157,26 @@ an organized and user-friendly interface.
 
 ---
 
-## <img src="https://api.iconify.design/lucide/snowflake.svg?color=%238ECBE8" width="25"> My Contribution Journey
+## My Contribution Journey
 
-<p align="center">
-  <img src="https://raw.githubusercontent.com/LamyaaDMoha/LamyaaDMoha/output/snake.gif"
-       alt="Snowy Snake Animation"
-       width="100%">
-</p>
+<div align="center">
+
+<picture>
+  <source media="(prefers-color-scheme: dark)"
+    srcset="https://raw.githubusercontent.com/LamyaaDMoha/LamyaaDMoha/output/github-snake-dark.svg">
+
+  <source media="(prefers-color-scheme: light)"
+    srcset="https://raw.githubusercontent.com/LamyaaDMoha/LamyaaDMoha/output/github-snake.svg">
+
+  <img alt="GitHub Contribution Snake"
+    src="https://raw.githubusercontent.com/LamyaaDMoha/LamyaaDMoha/output/github-snake.svg"
+    width="100%">
+</picture>
+
+</div>
 
 ---
+
 
 ## <img src="https://api.iconify.design/lucide/link.svg?color=%238ECBE8" width="24"> Connect With Me
 
