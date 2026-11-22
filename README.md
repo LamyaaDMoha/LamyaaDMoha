@@ -9,7 +9,7 @@
 
 <h1>Lamyaa Mohammed</h1>
 
-<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=19&pause=1100&color=8ECBE8&center=true&vCenter=true&width=550&lines=Computer+Science+Student;Exploring+Cybersecurity+and+Cloud;Learning+and+Creating+Every+Day" alt="Animated Introduction">
+<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=19&pause=1100&color=8ECBE8&center=true&vCenter=true&width=550&lines=Computer+Science+Student;Exploring+AI+and+Cloud;Learning+and+Creating+Every+Day" alt="Animated Introduction">
 
 <p><i>Every great journey begins with curiosity.</i></p>
 
