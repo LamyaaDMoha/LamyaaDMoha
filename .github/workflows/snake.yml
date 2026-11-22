@@ -1,0 +1,29 @@
+name: Snowy Snake Animation
+
+on:
+  workflow_dispatch:
+  schedule:
+    - cron: "20 4 * * *"
+
+permissions:
+  contents: write
+
+jobs:
+  generate:
+    runs-on: ubuntu-latest
+
+    steps:
+      - name: Generate Snowy Snake
+        uses: Platane/snk/svg-only@v3
+        with:
+          github_user_name: LamyaaDMoha
+          outputs: |
+            dist/snake.svg?color_snake=#B49AF1&color_dots=#0D1117,#28455D,#396985,#6E9FBC,#BCE4F7
+
+      - name: Save Snake Animation
+        uses: crazy-max/ghaction-github-pages@v3.1.0
+        with:
+          target_branch: output
+          build_dir: dist
+        env:
+          GITHUB_TOKEN: ${{ secrets.GITHUB_TOKEN }}
