@@ -13,14 +13,15 @@ jobs:
     runs-on: ubuntu-latest
 
     steps:
-      - name: Generate Snowy Snake
-        uses: Platane/snk@v3
+      - name: Generate Snake Animation
+        uses: Platane/snk/svg-only@v3
         with:
           github_user_name: LamyaaDMoha
           outputs: |
-            dist/snake.gif?color_snake=#B49AF1&color_dots=#25384A,#355B78,#5586A6,#86BAD4,#D3F3FF&color_background=#0D1117
+            dist/github-snake.svg
+            dist/github-snake-dark.svg?palette=github-dark
 
-      - name: Save Snake Animation
+      - name: Publish Snake Animation
         uses: crazy-max/ghaction-github-pages@v3.1.0
         with:
           target_branch: output
