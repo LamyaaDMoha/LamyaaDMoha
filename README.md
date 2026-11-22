@@ -157,13 +157,13 @@ an organized and user-friendly interface.
 
 ---
 
-### ❄️ My Contribution Journey
+## <img src="https://api.iconify.design/lucide/snowflake.svg?color=%238ECBE8" width="25"> My Contribution Journey
 
-<div align="center">
-
-![Snowy Snake](https://raw.githubusercontent.com/LamyaaDMoha/LamyaaDMoha/output/snake.svg)
-
-</div>
+<p align="center">
+  <img src="https://raw.githubusercontent.com/LamyaaDMoha/LamyaaDMoha/output/snake.gif"
+       alt="Snowy Snake Animation"
+       width="100%">
+</p>
 
 ---
 
