@@ -14,11 +14,11 @@ jobs:
 
     steps:
       - name: Generate Snowy Snake
-        uses: Platane/snk/svg-only@v3
+        uses: Platane/snk@v3
         with:
           github_user_name: LamyaaDMoha
           outputs: |
-            dist/snake.svg?color_snake=#B49AF1&color_dots=#0D1117,#28455D,#396985,#6E9FBC,#BCE4F7
+            dist/snake.gif?color_snake=#B49AF1&color_dots=#25384A,#355B78,#5586A6,#86BAD4,#D3F3FF&color_background=#0D1117
 
       - name: Save Snake Animation
         uses: crazy-max/ghaction-github-pages@v3.1.0
