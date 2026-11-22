@@ -1,97 +1,171 @@
+![Snowy Adventure](https://raw.githubusercontent.com/LamyaaDMoha/LamyaaDMoha/main/Forocoches.gif)
 
 <div align="center">
-
-![Snowy Adventure](https://raw.githubusercontent.com/LamyaaDMoha/LamyaaDMoha/main/Forocoches.gif)
 
 <h1>Lamyaa Mohammed</h1>
 
-<h3>Computer Science Student | Creative Thinker</h3>
+<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=19&pause=1100&color=8ECBE8&center=true&vCenter=true&width=550&lines=Computer+Science+Student;Exploring+Cybersecurity+and+Cloud;Learning+and+Creating+Every+Day" alt="Animated Introduction">
 
-<i>Exploring technology, one step at a time.</i>
+<p><i>Every great journey begins with curiosity.</i></p>
 
 </div>
 
-
 ---
 
-## <img src="https://api.iconify.design/lucide/compass.svg?color=%23A3C8E0" width="25"> About Me
+## <img src="https://api.iconify.design/lucide/compass.svg?color=%238ECBE8" width="24"> About Me
 
-- **Education:** Computer Science student at Umm Al-Qura University
-- **Passion:** Building software and exploring new technologies
-- **Interests:** UI/UX Design, Cybersecurity, and Cloud Computing
+I'm a Computer Science student at **Umm Al-Qura University**, interested in building practical applications and exploring new technologies.
+
+I enjoy combining creativity with programming, especially when working on visual and user-friendly projects.
+
+- **Interested in:** Cybersecurity, Cloud Computing, UI/UX
 - **Currently Learning:** Git, GitHub, and Networking
-- **Goal:** Developing my technical skills and creating meaningful projects
+- **My Goal:** Keep growing, building, and gaining hands-on experience
 
 ---
 
-## <img src="https://api.iconify.design/lucide/code-2.svg?color=%23A3C8E0" width="25"> My Toolkit
+## <img src="https://api.iconify.design/lucide/code-2.svg?color=%238ECBE8" width="24"> Languages & Tools
 
-<div align="center">
+<p align="center">
+<img src="https://skillicons.dev/icons?i=java,cpp,html,css,mysql,git,github,vscode&theme=dark&perline=8" height="42" alt="Languages and Tools">&nbsp;<img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/java/java-original.svg" width="42" height="42" alt="JavaFX" title="JavaFX">&nbsp;<img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/opengl/opengl-original.svg" width="42" height="42" alt="OpenGL" title="OpenGL">&nbsp;<img src="https://api.iconify.design/lucide/database.svg?color=%238ECBE8" width="42" height="42" alt="SQL" title="SQL">
+</p>
 
-<img src="https://skillicons.dev/icons?i=java,cpp,html,css,git,github,vscode&theme=dark" alt="Languages and Tools">
+---
 
-</div>
+## <img src="https://api.iconify.design/lucide/telescope.svg?color=%238ECBE8" width="24"> Currently Exploring
+
+<p align="center">
+<img src="https://api.iconify.design/lucide/shield-check.svg?color=%238ECBE8" width="24" alt="Security"> <strong>Cybersecurity</strong>&nbsp;&nbsp;
+<img src="https://api.iconify.design/lucide/cloud.svg?color=%238ECBE8" width="24" alt="Cloud"> <strong>Cloud Computing</strong>&nbsp;&nbsp;
+<img src="https://api.iconify.design/lucide/pen-tool.svg?color=%23B49AF1" width="24" alt="Design"> <strong>UI/UX</strong>&nbsp;&nbsp;
+<img src="https://api.iconify.design/lucide/network.svg?color=%2370B8E0" width="24" alt="Networking"> <strong>Networking</strong>
+</p>
+
+---
+
+## <img src="https://api.iconify.design/lucide/folder-git-2.svg?color=%238ECBE8" width="24"> Featured Projects
+
+<p align="center">
+A few highlights from my development journey.
+<br>
+<i>Click on a project to explore more.</i>
+</p>
+
+<details>
+<summary>
+<img src="https://api.iconify.design/lucide/star.svg?color=%23B49AF1" width="25" alt="Star">
+<strong> Save the Falling Stars</strong>
+</summary>
 
 <br>
 
 <div align="center">
 
-![SQL](https://img.shields.io/badge/SQL-315B7D?style=for-the-badge&logo=database&logoColor=white)
-![JavaFX](https://img.shields.io/badge/JavaFX-507E9C?style=for-the-badge)
-![OpenGL](https://img.shields.io/badge/OpenGL-406982?style=for-the-badge&logo=opengl&logoColor=white)
+<img src="https://api.iconify.design/lucide/sparkles.svg?color=%23B49AF1" width="45" alt="Stars">
+
+<h3>Save the Falling Stars</h3>
+
+<p>
+A 2D arcade game featuring interactive gameplay,
+custom graphics, collision detection, and texture mapping.
+</p>
+
+<p><strong>Technologies Used</strong></p>
+
+<img src="https://skillicons.dev/icons?i=cpp&theme=dark" width="45" alt="C++">
+&nbsp;
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/opengl/opengl-original.svg" width="45" alt="OpenGL">
+
+<br><br>
+
+<a href="https://github.com/LamyaaDMoha/save-the-falling-stars"><img src="https://skillicons.dev/icons?i=github&theme=dark" width="45" alt="View Project"></a>
+
+<p>
+<a href="https://github.com/LamyaaDMoha/save-the-falling-stars">View Project</a>
+</p>
 
 </div>
 
----
+</details>
 
-## <img src="https://api.iconify.design/lucide/telescope.svg?color=%23A3C8E0" width="25"> Currently Exploring
+<br>
 
-- Cybersecurity & Network Security
-- Cloud Computing
-- UI/UX Design
-- Software Development
+<details>
+<summary>
+<img src="https://api.iconify.design/lucide/graduation-cap.svg?color=%2370B8E0" width="25" alt="Graduation Cap">
+<strong> Student Grades Management System</strong>
+</summary>
 
----
-
-## <img src="https://api.iconify.design/lucide/map.svg?color=%23A3C8E0" width="25"> My Projects
-
-### Save the Falling Stars
-A 2D game developed using C++ and OpenGL, featuring interactive gameplay and custom graphics.
-
-### Student Grades Management System
-A desktop application developed using Java and JavaFX to manage student information and grades.
-
-### Hotel Reservation System
-A Java application focused on object-oriented programming concepts and reservation management.
-
----
-
-## <img src="https://api.iconify.design/lucide/chart-no-axes-combined.svg?color=%23A3C8E0" width="25"> GitHub Stats
+<br>
 
 <div align="center">
 
-<img src="https://github-readme-stats.vercel.app/api?username=LamyaaDMoha&show_icons=true&theme=github_dark&title_color=A3C8E0&icon_color=A3C8E0&text_color=DCEAF5&bg_color=0D1117&hide_border=true" alt="GitHub Stats">
+<img src="https://api.iconify.design/lucide/graduation-cap.svg?color=%2370B8E0" width="45" alt="Education">
+
+<h3>Student Grades Management System</h3>
+
+<p>
+A JavaFX desktop application developed to manage
+student information, grades, and reports through
+an organized and user-friendly interface.
+</p>
+
+<p><strong>Technologies Used</strong></p>
+
+<img src="https://skillicons.dev/icons?i=java&theme=dark" width="45" alt="Java">
+&nbsp;
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/java/java-original.svg" width="45" alt="JavaFX">
+
+<br><br>
+
+<a href="https://github.com/LamyaaDMoha/student-grades-management-system"><img src="https://skillicons.dev/icons?i=github&theme=dark" width="45" alt="View Project"></a>
+
+<p>
+<a href="https://github.com/LamyaaDMoha/student-grades-management-system">View Project</a>
+</p>
+
+</div>
+
+</details>
+
+<br>
+
+<div align="center">
+
+<a href="https://github.com/LamyaaDMoha?tab=repositories"><img src="https://api.iconify.design/lucide/folders.svg?color=%238ECBE8" width="32" alt="All Repositories"></a>
+
+<p>
+<a href="https://github.com/LamyaaDMoha?tab=repositories">View All My Projects</a>
+</p>
 
 </div>
 
 ---
 
-## <img src="https://api.iconify.design/lucide/link.svg?color=%23A3C8E0" width="25"> Connect With Me
+## <img src="https://api.iconify.design/lucide/chart-no-axes-combined.svg?color=%238ECBE8" width="24"> GitHub Activity
 
 <div align="center">
 
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-Lamyaa%20Mohammed-315B7D?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/lamyaadmohammed)
-
-[![GitHub](https://img.shields.io/badge/GitHub-LamyaaDMoha-507E9C?style=for-the-badge&logo=github&logoColor=white)](https://github.com/LamyaaDMoha)
+<img src="https://github-readme-stats.vercel.app/api?username=LamyaaDMoha&show_icons=true&theme=github_dark&title_color=8ECBE8&icon_color=8ECBE8&hide_border=true" alt="GitHub Stats">
 
 </div>
 
 ---
 
+## <img src="https://api.iconify.design/lucide/link.svg?color=%238ECBE8" width="24"> Connect With Me
+
+<p align="center">
+<a href="https://www.linkedin.com/in/lamyaadmohammed"><img src="https://skillicons.dev/icons?i=linkedin&theme=dark" width="52" alt="LinkedIn"></a>&nbsp;&nbsp;&nbsp;<a href="https://github.com/LamyaaDMoha"><img src="https://skillicons.dev/icons?i=github&theme=dark" width="52" alt="GitHub"></a>
+</p>
+
+---
+
 <div align="center">
 
-*"Every great journey begins with curiosity."*
+<img src="https://api.iconify.design/lucide/snowflake.svg?color=%238ECBE8" width="30" alt="Snowflake">
+
+<p><i>Building my future, one project at a time.</i></p>
+
+<img src="https://komarev.com/ghpvc/?username=LamyaaDMoha&style=flat-square&color=507E9C" alt="Profile Views">
 
 </div>
-
-
